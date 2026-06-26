@@ -1,2 +1,3 @@
 console.log("Hello Haider");
-//This code is used to show hello haider
+console.log("Hello Murtaza");
+//This code is used to show hello haider and murtaza
